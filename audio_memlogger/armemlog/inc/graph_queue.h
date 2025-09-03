@@ -6,8 +6,9 @@
 *      Defines memory structures & logging states
 *      for the graph memory queue.
 *
-*  Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
-*  SPDX-License-Identifier: BSD-3-Clause-Clear
+*   Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
+*   *  SPDX-License-Identifier: BSD-3-Clause-Clear
+>>>>>>> 697ee34 (audio-utils: move audio-log-utils from proprietary to opensource.)
 */
 
 #include <stdint.h>
