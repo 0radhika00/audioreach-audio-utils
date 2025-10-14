@@ -4,8 +4,8 @@
 * \file spf_reset_queue.h
 * \brief
 *      Defines memory structures & logging states
-*
 *      for the SPF reset memory queue.
+*
 *  Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
 *  SPDX-License-Identifier: BSD-3-Clause-Clear
 */

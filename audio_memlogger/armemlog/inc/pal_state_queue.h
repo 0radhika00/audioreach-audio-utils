@@ -5,12 +5,8 @@
 * \brief
 *      Defines memory structures & logging states
 *      for the PAL state memory queue.
-<<<<<<< HEAD
 *
 *  Copyright (c) Qualcomm Innovation Center, Inc. All rights reserved.
-=======
-*  Copyright (c) 2024 Qualcomm Innovation Center, Inc. All rights reserved.
->>>>>>> 697ee34 (audio-utils: move audio-log-utils from proprietary to opensource.)
 *  SPDX-License-Identifier: BSD-3-Clause-Clear
 */
 
